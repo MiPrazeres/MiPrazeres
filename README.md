@@ -32,7 +32,7 @@ Atualmente estou cursando Desenvolvimento de Sistemas no SENAI Jacob Lafer e sig
 
 ## 🌐 Conecte-se comigo
 
-![Gmail Badge](https://img.shields.io/badge/-stefanyna29@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-milenadosmp@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
 
 Atualmente estudo na área de desenvolvimento de sistemas, mergulhando em códigos, soluções digitais e inovação. Mas além das linhas de código, sempre tive um outro grande interesse: o bem-estar e a saúde dos animais.
 É por isso que estou dando um passo importante na minha trajetória: pretendo cursar Medicina Veterinária.
